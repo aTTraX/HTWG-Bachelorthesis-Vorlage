@@ -4,6 +4,9 @@
 *.blg
 *.lof
 *.log
+*.lot
 *.out
-*.gz
 *.toc
+*.tdo
+*.synctex(busy)
+*.synctex.gz
